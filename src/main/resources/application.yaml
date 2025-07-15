@@ -3,7 +3,7 @@ server:
 
 azure:
   speech:
-    key: dummy key
+    key: 7Cf0s1wxJKfV4zmnwPEk3F7VT1N34CUgS6gXXxBVZclVEEOVw2GmJQQJ99BGACYeBjFXJ3w3AAAYACOGJL4K
     region: eastus
     language: en-US
     endpoint-template: https://eastus.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1
