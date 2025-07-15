@@ -1,0 +1,12 @@
+server:
+  port: 8888
+
+azure:
+  speech:
+    key: dummy key
+    region: eastus
+    language: en-US
+    endpoint-template: https://eastus.stt.speech.microsoft.com/speech/recognition/conversation/cognitiveservices/v1
+    content-type: audio/wav
+    accept: application/json
+    user-agent: SpringBoot-STT-Service
